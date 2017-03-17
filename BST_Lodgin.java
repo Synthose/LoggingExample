@@ -1,4 +1,3 @@
-//Alan Krajbich, CS202
 //Project 4: Room for Rent
 /*This is the BST_Lodgin(g) class. This class is derived from the Lodging class, and adds
  *controls for manipulating the binary search tree. It represents a specific listing for a 
