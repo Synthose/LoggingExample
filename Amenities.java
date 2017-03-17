@@ -1,6 +1,4 @@
 import java.io.*;
-
-//Alan Krajbich, CS202
 //Project 4: Room for rent
 /*This is the Amenities class. It is where the list of amenities for a rental is created and stored.
  * Not too much to say about this class.
