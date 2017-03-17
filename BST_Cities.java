@@ -1,4 +1,3 @@
-//Alan Krajbich, CS202
 //Project 4: Room for Rent Pt.1
 /* This is the Binary Search Tree node for the Cities stored in the program. Each of these nodes
  * holds the root for the binary search tree of listings for the city the node represents. It has a
