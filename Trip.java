@@ -1,4 +1,3 @@
-//Alan Krajbich, CS202
 //Project 5: Booking
 /*This is the Trip class. This class manages one trip from start to completion. It takes in
  * a start and end date, as well as a budget for the trip. It holds a reference to a "Cities"
