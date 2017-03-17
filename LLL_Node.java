@@ -1,4 +1,3 @@
-//Alan Krajbich, CS202
 //Project 4, Room for Rent
 /*
  * This is the Linear Linked List abstract class. I'm not sure I'm completely comfortable with the hierarchy structures 
