@@ -1,0 +1,245 @@
+Comfort Inn
+Portland
+OR
+Motel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+Wifi, Pool
+Dec 24th, Dec 25th, Jan 1st
+Best Western
+Portland
+OR
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+Wifi, Pool
+Dec 24th, Dec 25th, Jan 1st
+Kimpton Hotel Monaco
+Portland
+OR
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+Wifi, Pool
+Dec 24th, Dec 25th, Jan 1st
+DoubleTree by Hilton
+Portland
+OR
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+Wifi, Pool
+Dec 24th, Dec 25th, Jan 1st
+Embassy Suites by Hilton
+Portland
+OR
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+Wifi, Pool
+Dec 24th, Dec 25th, Jan 1st
+Silver Cloud Inn
+Portland
+OR
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+Wifi, Pool
+Dec 24th, Dec 25th, Jan 1st
+Grand Victorian
+Newport
+OR
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+Nick's Cove
+Marshall
+CA
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+Hilton Garden Inn
+Boston
+MA
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+Comfort Inn
+Boston
+MA
+Motel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st, July 4, Thanksgiving
+Econo Lodge
+Boston
+MA
+Motel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+New England Motor Court
+Boston
+MA
+Motel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+La Quinta Inn & Suites
+Boston
+MA
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+Wyndham
+Boston
+MA
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+16 Lincoln St
+Malden
+MA
+Room for Rent
+
+Wifi, Washer/Dryer, Kitchen, AC
+All of June, All of July
+Chez Ian
+Columbus
+OH
+Guest Room
+:;A nice small room on the 3rd Floor:;4:;65.0
+AC, Heat, Private Bathroom, Library
+All of Summer.
+Hotel Americano
+New York
+NY
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+Ace Hotel
+New York
+NY
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+Grand HYatt
+New York
+NY
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+The Lexington
+New York
+NY
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+Lotte
+New York
+NY
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+Hudson
+New York
+NY
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+Warwick
+New York
+NY
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+Sheridan
+Seattle
+WA
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+Kimpton Hotel Vintage
+Seattle
+WA
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+Four Seasons Hotel
+Seattle
+WA
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+Fairmont Olympic Hotel
+Seattle
+WA
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+Inn at the Market
+Seattle
+WA
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+Hosteling International
+Seattle
+WA
+Hostel
+:;A quaint little hostel in China town. Lots of international Guests!:;3:;55.0
+Kitchen,  Private rooms,  Communal showers,  Media Room,  Quiet room,  Helpful Advice
+N/A
+Renaissance
+Seattle
+WA
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+The Roosevelt
+Seattle
+WA
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+Breakfast in Bed, Spa
+Dec 24th, Dec 25th, Jan 1st
+Silver Cloud Hotel
+Seattle
+WA
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+The Westin
+Seattle
+WA
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
+Hostel Dante
+Ravenna
+Italy
+Hostel
+:;Good:;5:;50.0:;Bad:;1:;48.58:;Best hostel I have ever stayed at. Local to the main city, within walking distance of the train. Extremely friendly staff and bright atmosphere.:;5:;15.0
+bike racks, game room, full bar, bunkbeds, reading room
+Dec 24th, Dec 25th, Jan 1st
+Historic Union Inn
+Union
+OR
+Hotel
+:;Good:;5:;50.0:;Bad:;1:;48.58
+
+Dec 24th, Dec 25th, Jan 1st
