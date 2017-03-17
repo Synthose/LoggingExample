@@ -1,4 +1,3 @@
-//Alan Krajbich, CS202
 //Project 5: Room for Rent Pt1
 /*This is the Lodging class, which describes a rental. It is created and defined by the users, and they can add
  * and manage the fields held inside. The rentals can have a Name, City, State, and Type associated with them, as well as
