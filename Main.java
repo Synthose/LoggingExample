@@ -1,5 +1,3 @@
-
-//Alan Krajbich, CS202
 //Project 5: Booking
 import java.util.Scanner;
 public class Main {
