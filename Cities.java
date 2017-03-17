@@ -1,4 +1,3 @@
-//Alan Krajbich, CS202
 //Project 5: Booking
 /* This is the Cities Class. This class extends the DLL Node class. It stores all the information
  * related to the reservations in a specific city. It stores the City and State of the city as a
