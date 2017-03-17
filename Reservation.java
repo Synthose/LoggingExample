@@ -1,4 +1,3 @@
-//Alan Krajbich, CS202
 //Project 5: Booking
 //This is the Reservation class. It extends the Lodging class, and adds a check in
 // and check out date to the information. 
