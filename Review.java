@@ -1,6 +1,4 @@
 import java.io.*;
-
-//Alan Krajbich, CS202
 //Project 4: Room for Rent pt1
 /*
  * This is the class for Reviews. This will store a review in a LLL. The review has a string
