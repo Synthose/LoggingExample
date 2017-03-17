@@ -1,4 +1,3 @@
-//Alan Krajbich, CS202
 //Project 5: Booking
 /*This is the Date class. This represents a specific date. The class allows for the date to 
  * be compared against other dates, and the number of days between two dates can be determined here.
